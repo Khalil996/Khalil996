@@ -17,7 +17,7 @@
 </a>
 
 * 🌱 Learning : Front-End Development ⚡ | Open-Source 🔥
-* 📫 Languages : JavaScript(Typescript), Node
+* 📫 Languages :Java, Golang
 * 🔭 Hobbies : Reading, Table tennis, Cooking,Origami(Paper folding)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=0366d6&center=false&vCenter=true&width=500&height=22&lines=Better+late+than+never+%F0%9F%91%8B)
