@@ -48,7 +48,7 @@
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalil996&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false&env=PAT_1)
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+
 
 ⭐️ From [Khalil996](https://github.com/Khalil996)
 
